@@ -1,0 +1,9 @@
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\bin\Debug\SKRIPSI.exe.config
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\bin\Debug\SKRIPSI.exe
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\bin\Debug\SKRIPSI.pdb
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\obj\Debug\SKRIPSI.csprojResolveAssemblyReference.cache
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\obj\Debug\SKRIPSI.Form1.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\obj\Debug\SKRIPSI.Properties.Resources.resources
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\obj\Debug\SKRIPSI.csproj.GenerateResource.Cache
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\obj\Debug\SKRIPSI.exe
+C:\Users\Rezi Apriliansyah\OneDrive\TA REZI\Program\SKRIPSI\SKRIPSI\obj\Debug\SKRIPSI.pdb
